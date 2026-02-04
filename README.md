@@ -24,17 +24,17 @@ The information system supports the following core domains:
 ~ most requested artists
 ~ most requested techniques
 
-# Tools & Technologies
+## Tools & Technologies
 - ERwin Data Modeler – conceptual and logical data modeling
 - Process Modeling Tool – business process modeling
 - Microsoft Access – database prototype and implementation
 
-# Repository Structure
+## Repository Structure
 - docs/ – diagrams and documentation (ER diagrams, process models, screenshots)
 - models/ – original modeling files
 - database/ – Microsoft Access database prototype demonstrating the implementation of the data model and core business logic
 
-# What This Project Demonstrates
+## What This Project Demonstrates
 - ability to translate business requirements into structured data models
 - understanding of end-to-end business processes
 - experience in designing relational databases
