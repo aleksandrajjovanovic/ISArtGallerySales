@@ -7,7 +7,7 @@ The project was developed with an emphasis on:
 - database design
 - and reporting requirements
 
-# Project Scope
+## Project Scope
 The information system supports the following core domains:
 - management of reference data (artists, art movements, techniques, employees, suppliers)
 - registration and tracking of artworks and titles
@@ -15,7 +15,7 @@ The information system supports the following core domains:
 - sales and payment processing
 - generation of analytical and financial reports
 
-# Key Features
+## Key Features
 - Structured reference catalogs (art movements, techniques, artists, suppliers)
 - Artwork procurement and sales workflows
 - Payment tracking and invoice issuance
